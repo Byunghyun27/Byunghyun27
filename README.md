@@ -17,6 +17,6 @@
 
 <h3 align="left">My github stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="byunghyun27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byunghyun27&show_icons=true&theme=transparent" alt="byunghyun27" /></p>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=byunghyun27&theme=github-dark-blue" alt="byunghyun27" /></p>
